@@ -1,0 +1,4 @@
+myfile.txt
+myscript.py
+outputfile.txt
+scriptoutput.txt
